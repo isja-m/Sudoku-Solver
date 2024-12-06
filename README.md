@@ -6,7 +6,7 @@ C:...\Sudoku_Solver> ./gradlew build
 
 Then run
 ```console
-C:...\Sudoku_Solversrc\main\java> java sudoku.java
+C:...\Sudoku_Solver\src\main\java> java sudoku.java
 ```
 
 By default the solver solves the following sudoku:
